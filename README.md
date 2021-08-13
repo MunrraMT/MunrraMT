@@ -42,6 +42,6 @@
 
 <div align="center">  
   <a href="https://github.com/MunrraMT">
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=MunrraMT&layout=compact" />
+    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=MunrraMT&layout=compact&v=2" />
   </a>
 </div>
