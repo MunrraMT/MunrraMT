@@ -15,17 +15,28 @@
 
 <hr>
 
-<div>
+<div align="center">
   <h2> 🚀 Minhas Skills </h2>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="Styled-Components"/></code>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129416931-32dc3fbf-7ed9-4c3a-9cd2-81f832e60393.png" alt="HTML5"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129417170-9836cf96-1f3a-4d5e-a4a9-13e3ca8cc8df.png" alt="CSS"/>
+  <img height="30" src="https://user-images.githubusercontent.com/54816857/129416107-d0e3acba-d9e6-4fd4-af45-9787a3e1a588.png" alt="NPM"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129416341-231fe3b7-b469-4f9f-9136-3296ad86f10a.png" alt="Yarn"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129417504-2d2403f2-e6d7-49ba-9755-397faad4ac36.png" alt="Webpack"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129418232-9b548d2b-b86d-4e69-a274-e42bf0338228.png" alt="NodeJS"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129414372-77aaf421-9252-496a-865a-06430e5c4de9.png" alt="React Router"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129417713-91889ca9-acea-4e0f-8fbf-bcb04fe769a1.png" alt="Eslint"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129417821-cc6a4efd-d85d-443f-9efa-a843c9fcb7a4.png" alt="Prettier"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="Styled-Components"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129413955-de5aa777-f530-4d4f-8198-e346dd2dbb7c.png" alt="Material UI"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129413889-9bc50208-6843-4136-a1fb-570a8b7a4895.png" alt="React-Bootstrap"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129413281-3a179b64-adcc-49ce-bc64-b923f823eab1.png" alt="Formik"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129414083-179b30de-ac6d-4947-b46d-64994581401a.png" alt="React Hook Form"/>
 </div>
 
-<div>
+<div align="center">
   <h2> 🌐 Minhas Redes </h2>
   <a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-86369544/" alt="Linkedin">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/" />
@@ -42,6 +53,6 @@
 
 <div align="center">  
   <a href="https://github.com/MunrraMT">
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=MunrraMT&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MunrraMT" />
   </a>
 </div>
