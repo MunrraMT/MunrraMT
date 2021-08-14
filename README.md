@@ -26,8 +26,9 @@
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129417504-2d2403f2-e6d7-49ba-9755-397faad4ac36.png" alt="Webpack"/>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"/>
  
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129433215-25b8379d-10d2-4e15-beac-b955319f986a.png" alt="Javascript"/>
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129418232-9b548d2b-b86d-4e69-a274-e42bf0338228.png" alt="NodeJS"/>
+  <img height="40" src="https://user-images.githubusercontent.com/54816857/129433199-0a73590c-4868-47c9-a7b8-1be07ee71f63.png" alt="TypeScript"/>
  
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129418558-62aa823d-cb39-43ca-90fd-7afb1d7d6682.png" alt="Jest"/>
