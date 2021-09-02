@@ -43,10 +43,8 @@
   <img height="40" src="https://user-images.githubusercontent.com/54816857/130845356-24726683-b4f5-425e-83a4-0cf7cacb4c8c.png" alt="Docker"/>
  
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129413955-de5aa777-f530-4d4f-8198-e346dd2dbb7c.png" alt="Material UI"/>
-  <img height="40" src="https://user-images.githubusercontent.com/54816857/129413889-9bc50208-6843-4136-a1fb-570a8b7a4895.png" alt="React-Bootstrap"/>
  
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129413281-3a179b64-adcc-49ce-bc64-b923f823eab1.png" alt="Formik"/>
-  <img height="40" src="https://user-images.githubusercontent.com/54816857/129414083-179b30de-ac6d-4947-b46d-64994581401a.png" alt="React Hook Form"/>
 </div>
 
 <div align="center">
