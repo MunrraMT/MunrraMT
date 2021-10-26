@@ -59,9 +59,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
-
-<hr>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MunrraMT" />
-</div>
