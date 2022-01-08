@@ -40,8 +40,6 @@
  
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="Styled-Components"/>
  
-  <img height="40" src="https://user-images.githubusercontent.com/54816857/130845356-24726683-b4f5-425e-83a4-0cf7cacb4c8c.png" alt="Docker"/>
- 
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129413955-de5aa777-f530-4d4f-8198-e346dd2dbb7c.png" alt="Material UI"/>
  
   <img height="40" src="https://user-images.githubusercontent.com/54816857/129413281-3a179b64-adcc-49ce-bc64-b923f823eab1.png" alt="Formik"/>
