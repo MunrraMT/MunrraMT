@@ -47,13 +47,12 @@
 
 <div align="center">
   <h2> 🌐 Minhas Redes </h2>
+  
   <a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-86369544/" alt="Linkedin">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/" />
   </a>
+  
   <a href="dev-asantos@outlook.com" alt="Outlook">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5565999965616" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
