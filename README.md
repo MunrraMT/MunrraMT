@@ -51,8 +51,4 @@
   <a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-86369544/" alt="Linkedin">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/" />
   </a>
-  
-  <a href="dev-asantos@outlook.com" alt="Outlook">
-   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
 </div>
